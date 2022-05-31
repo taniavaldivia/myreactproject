@@ -2,7 +2,7 @@ import React from 'react';
 import './CreateTodoButton.css';
 
 function CreateTodoButton(props) {
-    // Se le pone propiedad de msg para poder reutilizar esta función en distintos componentes
+    // Se le pone propiedad de msg para poder reutilizar esta función en distintos componentessss
     const onClickButton = (msg) => {
         alert(msg)
     }
