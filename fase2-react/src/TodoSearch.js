@@ -20,6 +20,6 @@ function TodoSearch ({ searchValue, setSearchValue }) {
             <p>{searchValue}</p>
         </div>
     );
-}
+};
 
 export { TodoSearch };
